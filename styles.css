@@ -97,3 +97,11 @@ button {
     color: white;
 }
 
+.submit:hover {
+    background-color: rgb(69, 89, 129);
+    border-color: rgb(69, 89, 129);
+}
+
+.clear:hover {
+    background-color: rgb(208, 215, 230);
+}
